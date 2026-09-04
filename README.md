@@ -1,3 +1,4 @@
-# git-practice
-Mi primer repositorio en GitHub.
-Cambio realizado directamente desde GitHub.
+# Git-oefening
+
+Mijn eerste repository op GitHub.
+Wijziging rechtstreeks uitgevoerd op GitHub.
