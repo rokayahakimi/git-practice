@@ -1,4 +1,4 @@
 # Git-oefening
 
-Mijn eerste repository op GitHub.
+Mijn eerste externe repository.
 Wijziging rechtstreeks uitgevoerd op GitHub.
