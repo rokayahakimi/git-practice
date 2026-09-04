@@ -1,3 +1,3 @@
 # git-practice
-Mi primer repositorio en GitHub.
+Mi primer repositorio local.
 Cambio realizado directamente desde GitHub.
